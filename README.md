@@ -1,2 +1,2 @@
-# Bigram_Tigram_name_generator
+# Bigram_Trigram_name_generator
 meow meow meow
